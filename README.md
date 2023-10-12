@@ -1,5 +1,5 @@
 # E-commerce Stall Web App
-Website_URL = ## http://leeyeehauwork.pythonanywhere.com/
+Website_URL = http://leeyeehauwork.pythonanywhere.com/
 ## Overview
 
 This is an e-commerce web application developed with Django, offering a range of features to facilitate online shopping. It includes user authentication, product management, shopping cart, and purchase history functionality. This README provides an overview of the project and instructions for getting started.
