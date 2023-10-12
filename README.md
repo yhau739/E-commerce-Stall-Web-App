@@ -19,6 +19,10 @@ This is an e-commerce web application developed with Django, offering a range of
 - **Checkout**: Purchase items in your cart by securely completing the checkout process.
 
 - **View Purchase History**: Users can view their order history, including order details and status.
+  
+- **Coupon Discount**: Users can redeem coupon and get discounts on their purchases. (COMING SOON)
+
+- **More Filters**: More filters for product (COMING SOON)
 
 ## Getting Started
 
