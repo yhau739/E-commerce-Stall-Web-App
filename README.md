@@ -26,7 +26,7 @@ This is an e-commerce web application developed with Django, offering a range of
 
 - Python 3.x
 - Django 3.x
-- (Add any other dependencies specific to your project)
+- Jquery 3.x
 
 ### Installation
 
