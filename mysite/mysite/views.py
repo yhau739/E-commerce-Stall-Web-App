@@ -11,6 +11,7 @@ from django.core.paginator import Paginator
 # Create your views here.
 def home(request):
     request.session["authenticated"] = False
+    request.session["show_overlay"] = False
     # return HttpResponse("Hello, world. You're at the home page.")
     return redirect('products:index')
 
